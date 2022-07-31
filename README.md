@@ -2,7 +2,7 @@
 
 
 
-- 🔭 I’m currently working on JavaScript, MongoDB, Express, React, Node, GraphQL,socket.io
+- 🔭 I’m currently working on React js and Node js
 - 🌱 I’m currently learning TypeScript, Next js
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
