@@ -1,4 +1,4 @@
-# Hi there <img width="60" src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" alt="hi" />
+# Hi there <img width="50" src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" alt="hi" />
 
 
 
