@@ -28,6 +28,12 @@
       </a>
       <br>CSS 3
     </td>
+       <td align="center" width="96">
+      <a href="#">
+        <img src="https://sass-lang.com/assets/img/logos/logo-b6e1ef6e.svg" width="48" height="48" alt="CSS" data-canonical-src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" style="max-width: 100%;">
+      </a>
+      <br>SASS
+    </td>
     <td align="center" width="96">
       <a href="#">
         <img src="https://camo.githubusercontent.com/19c442403fb0e923bbc655300a74ce3175f68171d9331aa9fd1d4e6b9a84977c/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f392f39392f556e6f6666696369616c5f4a6176615363726970745f6c6f676f5f322e737667" width="48" height="48" alt="Javascript" data-canonical-src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" style="max-width: 100%;">
