@@ -14,8 +14,7 @@
 
 ### Languages and Tools:
 
-
-  <table>
+<table>
   <tbody><tr>
     <td align="center" width="96">
       <a href="#">
@@ -47,18 +46,6 @@
       </a>
       <br>ReactJS
     </td>
-        <td align="center" width="96"> 
-      <a href="#">
-        <img src="https://camo.githubusercontent.com/414133f161b78f61a2452120d5f81ea7ef13a6fcf0ac359382e1e012de4e874c/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f657870726573736a732f657870726573736a732d69636f6e2e737667" width="48" height="48" alt="ExpressJS" data-canonical-src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg" style="max-width: 100%;">
-      </a>
-      <br>ExpressJS
-    </td>
-        <td align="center" width="96">
-      <a href="#">
-        <img src="https://graphql.org/img/logo.svg" width="48" height="48" alt="ReactJS" data-canonical-src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" style="max-width: 100%;">
-      </a>
-      <br>GraphQl
-    </td>
     <td align="center" width="96">
       <a href="#">
         <img src="https://camo.githubusercontent.com/d2b2bdee44236df7530ad5622036e0f8aa2259fcfb84d653c7d90a7f5759a7fa/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f652f65302f4769742d6c6f676f2e737667" width="48" height="48" alt="Git" data-canonical-src="https://upload.wikimedia.org/wikipedia/commons/e/e0/Git-logo.svg" style="max-width: 100%;">
@@ -85,7 +72,12 @@
     </td>
   </tr>
   <tr>
-
+    <td align="center" width="96"> 
+      <a href="#">
+        <img src="https://camo.githubusercontent.com/414133f161b78f61a2452120d5f81ea7ef13a6fcf0ac359382e1e012de4e874c/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f657870726573736a732f657870726573736a732d69636f6e2e737667" width="48" height="48" alt="ExpressJS" data-canonical-src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg" style="max-width: 100%;">
+      </a>
+      <br>ExpressJS
+    </td>
     <td align="center" width="96">
       <a href="#">
         <img src="https://camo.githubusercontent.com/55c96f41fc5dba5af624827c4205fdb469978360e0554d081b71cab80d0b2e1d/687474703a2f2f7777772e6572696b61736c616e642e636f6d2f7374617469632f696d616765732f6d6f6e676f6f73652e706e67" width="48" height="48" alt="Mongoose" style="max-width: 100%;">
