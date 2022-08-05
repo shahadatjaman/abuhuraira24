@@ -82,7 +82,7 @@
       <a href="#">
         <img src="https://graphql.org/img/logo.svg" width="48" height="48" alt="ExpressJS" data-canonical-src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg" style="max-width: 100%;">
       </a>
-      <br>GraphQl
+      <br>GraphQL
     </td>
     <td align="center" width="96">
       <a href="#">
