@@ -12,7 +12,7 @@
 - ⚡ Fun fact: ...
 
 
-###Languages and Tools:
+## Languages and Tools:
 
 <table>
   <tbody><tr>
