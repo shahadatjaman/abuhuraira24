@@ -45,13 +45,7 @@
         <img src="https://camo.githubusercontent.com/faf0782d01ec9e993c2e258fa995f0fc9171a14969d2129bbf5a5816df7e7b62/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f72656163746a732f72656163746a732d69636f6e2e737667" width="48" height="48" alt="ReactJS" data-canonical-src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" style="max-width: 100%;">
       </a>
       <br>ReactJS
-    </td>
-        <td align="center" width="96"> 
-      <a href="#">
-        <img src="https://camo.githubusercontent.com/414133f161b78f61a2452120d5f81ea7ef13a6fcf0ac359382e1e012de4e874c/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f657870726573736a732f657870726573736a732d69636f6e2e737667" width="48" height="48" alt="ExpressJS" data-canonical-src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg" style="max-width: 100%;">
-      </a>
-      <br>ExpressJS
-    </td>
+
     <td align="center" width="96">
       <a href="#">
         <img src="https://camo.githubusercontent.com/d2b2bdee44236df7530ad5622036e0f8aa2259fcfb84d653c7d90a7f5759a7fa/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f652f65302f4769742d6c6f676f2e737667" width="48" height="48" alt="Git" data-canonical-src="https://upload.wikimedia.org/wikipedia/commons/e/e0/Git-logo.svg" style="max-width: 100%;">
@@ -77,6 +71,13 @@
       <br>MongoDB
     </td>
   </tr>
+        </td>
+        <td align="center" width="96"> 
+      <a href="#">
+        <img src="https://camo.githubusercontent.com/414133f161b78f61a2452120d5f81ea7ef13a6fcf0ac359382e1e012de4e874c/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f657870726573736a732f657870726573736a732d69636f6e2e737667" width="48" height="48" alt="ExpressJS" data-canonical-src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg" style="max-width: 100%;">
+      </a>
+      <br>ExpressJS
+    </td>
   <tr>
 
     <td align="center" width="96">
