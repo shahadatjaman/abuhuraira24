@@ -102,6 +102,12 @@
       </a>
       <br>Mongoose
     </td>
+      <td align="center" width="96">
+      <a href="#">
+        <img src="https://cdn.worldvectorlogo.com/logos/socket-io.svg" width="48" height="48" alt="Mongoose" style="max-width: 100%;">
+      </a>
+      <br>Socket.io
+    </td>
     <td align="center" width="96">
       <a href="#">
         <img src="https://camo.githubusercontent.com/fb8f0070ec02bc94948f0a40a33d858f54c1c5c08b536f7daea3709f20f3de87/68747470733a2f2f6769746875622e6769746875626173736574732e636f6d2f696d616765732f6d6f64756c65732f6c6f676f735f706167652f4f63746f6361742e706e67" width="48" height="48" alt="Github" data-canonical-src="https://github.githubassets.com/images/modules/logos_page/Octocat.png" style="max-width: 100%;">
