@@ -49,9 +49,9 @@
     </td>
         <td align="center" width="96">
       <a href="#">
-        <img src="https://camo.githubusercontent.com/faf0782d01ec9e993c2e258fa995f0fc9171a14969d2129bbf5a5816df7e7b62/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f72656163746a732f72656163746a732d69636f6e2e737667" width="48" height="48" alt="ReactJS" data-canonical-src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" style="max-width: 100%;">
+        <img src="https://graphql.org/img/logo.svg" width="48" height="48" alt="ReactJS" data-canonical-src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" style="max-width: 100%;">
       </a>
-      <br>ReactJS
+      <br>GraphQl
     </td>
     <td align="center" width="96">
       <a href="#">
