@@ -80,9 +80,9 @@
     </td>
       <td align="center" width="96"> 
       <a href="#">
-        <img src="https://camo.githubusercontent.com/414133f161b78f61a2452120d5f81ea7ef13a6fcf0ac359382e1e012de4e874c/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f657870726573736a732f657870726573736a732d69636f6e2e737667" width="48" height="48" alt="ExpressJS" data-canonical-src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg" style="max-width: 100%;">
+        <img src="https://graphql.org/img/logo.svg" width="48" height="48" alt="ExpressJS" data-canonical-src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg" style="max-width: 100%;">
       </a>
-      <br>ExpressJS
+      <br>GraphQl
     </td>
     <td align="center" width="96">
       <a href="#">
