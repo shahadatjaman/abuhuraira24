@@ -84,6 +84,12 @@
       </a>
       <br>GraphQL
     </td>
+          <td align="center" width="96"> 
+      <a href="#">
+        <img src="https://www.svgrepo.com/show/303557/redux-logo.svg" style="max-width: 100%;">
+      </a>
+      <br>Redux
+    </td>
     <td align="center" width="96">
       <a href="#">
         <img src="https://camo.githubusercontent.com/55c96f41fc5dba5af624827c4205fdb469978360e0554d081b71cab80d0b2e1d/687474703a2f2f7777772e6572696b61736c616e642e636f6d2f7374617469632f696d616765732f6d6f6e676f6f73652e706e67" width="48" height="48" alt="Mongoose" style="max-width: 100%;">
