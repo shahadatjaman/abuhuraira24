@@ -114,5 +114,11 @@
       </a>
       <br>TailwindCSS
     </td>
+     <td align="center" width="96">
+      <a href="#">
+        <img src="https://graphql.org/img/logo.svg" width="48" height="48" alt="TailwindCSS" data-canonical-src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" style="max-width: 100%;">
+      </a>
+      <br>TailwindCSS
+    </td>
   </tr>
 </tbody></table>
