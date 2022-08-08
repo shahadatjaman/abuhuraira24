@@ -14,7 +14,7 @@
 
 <table>
   <tbody><tr>
-    <td align="center" width="96">
+    <td title="HTML 5" align="center" width="96">
       <a href="#">
         <img src="https://camo.githubusercontent.com/afd3139a285295c960e8cab5f69d684aaf3831c631e218ae4483a29cd450f7d0/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f362f36312f48544d4c355f6c6f676f5f616e645f776f72646d61726b2e737667" width="48" height="48" alt="HTML" data-canonical-src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" style="max-width: 100%;">
       </a>
