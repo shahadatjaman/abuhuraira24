@@ -3,7 +3,8 @@
 
 
 - 🔭 I’m currently working on React js and Node js
-- 🌱 I’m currently learning TypeScript, Next js
+- 🌱 I’m currently learning DAS.
+- 🌱 I’m currently doing problem solving in <a href="https://leetcode.com/abuhurairaa/" target="_blanck" rel="noreferrer">leeCode</a>.
 - 👯 I’m looking to collaborate with other Developers
 
 
